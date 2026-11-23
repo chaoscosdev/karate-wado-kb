@@ -1,3 +1,10 @@
+---
+title: Fundamental Terms
+parent: Fundamentals
+nav_order: 1
+permalink: /docs/basics/karate-vocabulary/
+---
+
 # Karate Vocabulary – Wadō-ryū Beginner Reference
 # 空手道五语言词汇表（和道流初学者）
 
